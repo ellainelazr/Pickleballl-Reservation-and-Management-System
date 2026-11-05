@@ -1,0 +1,2 @@
+Pickleball Paddle|50.0|50
+Pickleball Ball|20.0|50

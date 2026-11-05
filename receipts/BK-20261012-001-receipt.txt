@@ -1,0 +1,33 @@
+============================================================
+                  SMASHPOINT PICKLEBALL
+                    RESERVATION RECEIPT
+============================================================
+
+BOOKING INFORMATION
+------------------------------------------------------------
+Booking Reference:     BK-20261012-001
+Booking Date:          October 12, 2026
+Receipt Date:          October 16, 2026
+Customer:              Keith
+Email:                 keith@gmail.com
+Contact Number:        09112223456
+Payment Method:        GCash
+
+RESERVATION AND RENTALS
+------------------------------------------------------------
+Description          Details                         Amount
+------------------------------------------------------------
+Court 1              9:00 AM - 10:00 AM             ₱300.00
+Court 1              10:00 AM - 11:00 AM            ₱300.00
+Paddle Rental        2 × ₱50.00 per hour × 2 c      ₱200.00
+Ball Rental          3 × ₱20.00 per hour × 2 c      ₱120.00
+------------------------------------------------------------
+Court Charges:                                        ₱600.00
+Equipment Rental:                                     ₱320.00
+============================================================
+TOTAL AMOUNT:                                         ₱920.00
+============================================================
+
+Payment is collected at the venue. This system does not process online payments.
+
+        Thank you for choosing SmashPoint Pickleball.

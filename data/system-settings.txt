@@ -1,0 +1,5 @@
+regularRate=200.0
+peakRate=350.0
+operatingExpense=1500.0
+paddleRate=50.0
+ballRate=20.0
